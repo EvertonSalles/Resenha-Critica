@@ -1,0 +1,42 @@
+*{
+ padding: 4px;
+ background-color: azure;
+ margin: 20px;
+ text-align: center;
+ font-size: 25px;
+
+}
+
+
+img{
+    max-width: 360px;
+
+}
+
+
+*p{
+    font-family: arial;
+    
+     
+    
+}
+
+.titulo-principal{
+text-align: center;
+text-decoration:underline 3px;
+font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+/* Footer*/
+.primeiro,.segundo{
+color: silver;
+}
+
